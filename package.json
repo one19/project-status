@@ -1,0 +1,24 @@
+{
+  "name": "project-status",
+  "version": "0.0.0",
+  "description": "Living description of what I support, and icons for them.",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "node index.js && git add cache",
+    "test": "echo \"oh gosh, no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one19/project-status.git"
+  },
+  "author": "one19 <maelstroswim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one19/project-status/issues"
+  },
+  "homepage": "https://github.com/one19/project-status#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "husky": "^0.14.3"
+  }
+}
