@@ -1,6 +1,6 @@
 # PROJECT STATI:
 
-[![Maintenance status](https://github.com/one19/project-status/raw/master/cache/project-status/maintained.svg)](https://github.com/one19/project-status)
+[![Maintenance status](https://raw.githubusercontent.com/one19/project-status/master/cache/project-status/maintained.svg)](https://github.com/one19/project-status)
 
 This is a small repo for checking which of my github repos are under active development. I've been continually frustrated with packages and repos being sunset without explanation, or even saying they've been sunset. I'm fixing it on **here** on my github profile now. If you see a repo of mine that isn't on this list *(unless it's private somehow you sneakthief)* it isn't actively maintained in any way, and I hereby relinquish all responsibility for its operation, and you may copy/use however you like, any or all of anything you find therein, without referencing me at all. Whatever license they claim to have is null and void.
 
