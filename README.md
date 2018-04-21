@@ -2,12 +2,14 @@
 
 [![Maintenance status](https://raw.githubusercontent.com/one19/project-status/master/cache/project-status/maintained.svg?sanitize=true)](https://github.com/one19/project-status)
 
+---
+
 This is a small repo for checking which of my github repos are under active development. I've been continually frustrated with packages and repos being sunset without explanation, or even saying they've been sunset. I'm fixing it on **here** on my github profile now. If you see a repo of mine that isn't on this list *(unless it's private somehow you sneakthief)* it isn't actively maintained in any way, and I hereby relinquish all responsibility for its operation, and you may copy/use however you like, any or all of anything you find therein, without referencing me at all. Whatever license they claim to have is null and void.
 
 Also, since I don't want to overwhelm [shields.io](https://shields.io/), and also since I want to make this the sole source of truth for repo status, I'm caching the badges here, and using a pre-commit hook to keep the cache up to date with this README.
 Normal badges are pretty standard. The ones here are a custom breed meant to explain a little more of what to expect with these packages.
 
-####the titles & description pre-list below should be pretty self-evident; if they are not, feel free to ping me on the repo or here, and I **will** explain within one week.
+#### the titles & description pre-list below should be pretty self-evident; if they are not, feel free to ping me on the repo or here, and I **will** explain within one week.
 
 Some repositories will reside inside multiple lists. This usually won't mean something contradictory.
 
