@@ -4,7 +4,7 @@
   "description": "Living description of what I support, and icons for them.",
   "main": "index.js",
   "scripts": {
-    "precommit": "node index.js && git add cache",
+    "precommit": "rm -rf cache && node index.js && git add cache",
     "test": "echo \"oh gosh, no tests\""
   },
   "repository": {

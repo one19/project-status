@@ -25,7 +25,7 @@ const mkdirFRecursiveSync = folderName => {
 };
 
 const convertReadmeToIcons = () => {
-  const linkRegex = /^\d+\. \[(.*)]\((.*)\)/;
+  const linkRegex = /^\d+\.\s+\[(.*)]\((.*)\)/;
   const typeLineRegex = /^#{2} /;
 
   const readmeLines = fs
@@ -38,7 +38,7 @@ const convertReadmeToIcons = () => {
       if (row.match(/sunset/gi)) return "sunset";
       if (row.match(/npm/gi)) return "npm package";
       if (row.match(/heavy/gi)) return "heavy";
-      if (row.match(/stable/)) return "stable";
+      if (row.match(/stable/gi)) return "stable";
     }
 
     const repoRow = linkRegex.exec(row);
@@ -65,11 +65,13 @@ const convertReadmeToIcons = () => {
 
 const writeIcon = (type, message, repoName) => {
   mkdirFRecursiveSync(`cache/${repoName}`);
+  console.log("repoName", repoName);
 
   const { colorA, colorB, color } = ICON_TYPES[type].find(
     e => e.message === message
   );
   let shieldUrl = `https://img.shields.io/badge/${type}-${message}-${color}.svg`;
+  console.log("shieldUrl", shieldUrl);
 
   if (type === "npm") {
     const doubleDashNpm = repoName.replace("-", "--");
