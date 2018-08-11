@@ -18,13 +18,14 @@ Some repositories will reside inside multiple lists. This usually won't mean som
 > Any repo here is under my active care. I will respond to issues/pull-requests in a timely fashion. Raise issues, and I **will** generate a pull request promptly to address them.
 
 1.  [project-status](https://github.com/one19/project-status) _duh_
-2.  [qul](https://github.com/one19/qul)
-3.  [im-doin-frontend](https://github.com/one19/im-doin-frontend)
-4.  [im-doin-slack](https://github.com/one19/im-doin-slack)
-5.  [im-doin](https://github.com/one19/im-doin)
-6.  [fin-serve](https://github.com/one19/fin-serve)
-7.  [markov-json](https://github.com/one19/markov-json)
-8.  [todo-month](https://github.com/one19/todo-month)
+2.  [im-doin-frontend](https://github.com/one19/im-doin-frontend)
+3.  [im-doin-slack](https://github.com/one19/im-doin-slack)
+4.  [im-doin](https://github.com/one19/im-doin)
+5.  [markov-json](https://github.com/one19/markov-json)
+6.  [todo-month](https://github.com/one19/todo-month)
+7.  [arum-aruff](https://github.com/one19/arum-aruff)
+8.  [qul](https://github.com/one19/qul)
+9.  [fin-serve](https://github.com/one19/fin-serve)
 
 ## BEING-SUNSET:
 
@@ -40,6 +41,7 @@ Some repositories will reside inside multiple lists. This usually won't mean som
 3.  [im-doin](https://www.npmjs.com/package/im-doin)
 4.  [qul](https://www.npmjs.com/package/qul)
 5.  [markov-json](https://www.npmjs.com/package/markov-json)
+6.  [arum-aruff](https://www.npmjs.com/package/arum-aruff)
 
 ## HEAVY MAINTENANCE:
 
@@ -47,6 +49,7 @@ Some repositories will reside inside multiple lists. This usually won't mean som
 
 1.  [im-doin-frontend](https://github.com/one19/im-doin-frontend)
 2.  [im-doin-slack](https://github.com/one19/im-doin-slack)
+2.  [arum-aruff](https://github.com/one19/arum-aruff)
 
 ## STABLE MAINTENANCE:
 
