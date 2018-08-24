@@ -42,6 +42,7 @@ Some repositories will reside inside multiple lists. This usually won't mean som
 4.  [qul](https://www.npmjs.com/package/qul)
 5.  [markov-json](https://www.npmjs.com/package/markov-json)
 6.  [arum-aruff](https://www.npmjs.com/package/arum-aruff)
+7.  [lint-node](https://www.npmjs.com/package/@brightsole/eslint-config-lint-node)
 
 ## HEAVY MAINTENANCE:
 
